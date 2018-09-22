@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Styles and Material Design</string>
+    <string name="bgpic">bg-pic</string>
+    <string name="title">Sangat Island Beach Resort</string>
+    <string name="location">Location: Coron, Northern Palawan, Philippines</string>
+    <string name="distance">Distance from UST: 310km</string>
+    <string name="back">BACK</string>
+    <string name="next">NEXT</string>
+</resources>
